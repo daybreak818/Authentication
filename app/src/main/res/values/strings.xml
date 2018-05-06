@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Authentication</string>
+    <string name="enroll">Enroll</string>
+    <string name="authentication">Authentication</string>
+    <string name="Fingercollection">手势采集</string>
+    <string name="Facecollection">面部采集</string>
+</resources>

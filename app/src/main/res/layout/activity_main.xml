@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.daybreak.authentication.MainActivity">
+
+    <Button
+        android:id="@+id/button_enroll"
+        android:layout_width="338dp"
+        android:layout_height="47dp"
+        android:text="@string/enroll"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <Button
+        android:id="@+id/button_authentication"
+        android:layout_width="340dp"
+        android:layout_height="51dp"
+        android:text="@string/authentication"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="84dp" />
+</android.support.constraint.ConstraintLayout>
